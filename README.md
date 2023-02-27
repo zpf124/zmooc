@@ -1,2 +1,2 @@
 # zmooc
-A web project providing online learning.
+A web project to provie online learning service.
