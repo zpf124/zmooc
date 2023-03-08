@@ -14,9 +14,9 @@
 *.rar
 
 # gradle
-backend/.gradle
-backend/build/
-!backend/gradle/wrapper/gradle-wrapper.jar
+server/.gradle
+server/build/
+!server/gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -26,14 +26,14 @@ backend/build/
 .settings
 .springBeans
 .sts4-cache
-backend/bin/
+server/bin/
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
-backend/out/
+server/out/
 
 ### VS Code ###
 .vscode/
